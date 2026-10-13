@@ -1,0 +1,6 @@
+{
+  "name": "SF-AI-OPC-Finals-Showcase",
+  "description": "顺丰集团内部AI大赛决赛OPC赛道十强方案交互式展演系统，融合方案架构、算法核心、业务落地成效与数字大屏演示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
